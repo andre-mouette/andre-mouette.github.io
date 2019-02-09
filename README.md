@@ -1,2 +1,4 @@
 # andre-mouette.github.io
-Blog page
+Hello and welcome to my personal page!
+
+
