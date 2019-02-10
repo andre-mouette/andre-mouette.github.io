@@ -6,8 +6,8 @@
     <atom:link href="https://andre-mouette.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Вс, 10 фев 2019 15:01:47 +0300</pubDate>
-    <lastBuildDate>Вс, 10 фев 2019 15:01:47 +0300</lastBuildDate>
+    <pubDate>Вс, 10 фев 2019 15:04:57 +0300</pubDate>
+    <lastBuildDate>Вс, 10 фев 2019 15:04:57 +0300</lastBuildDate>
 
     <item>
       <title>First Post</title>
@@ -19,8 +19,6 @@
 &lt;p&gt;This is my blog page&lt;/p&gt;
 
 &lt;p&gt;I am java developer from Sberbank and Ivara Dance Studio teacher&lt;/p&gt;
-
-&lt;img src=&quot;img\me.jpg&quot; height=&quot;50%&quot; width=&quot;50%&quot;&gt;
 
 &lt;pre class=&quot;prettyprint&quot;&gt;
 &lt;code&gt;
