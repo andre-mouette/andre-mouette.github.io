@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JBake</title>
+    <link>https://andre-mouette.github.io</link>
+    <atom:link href="https://andre-mouette.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>JBake Bootstrap Template</description>
+    <language>en-gb</language>
+    <pubDate>Вс, 10 фев 2019 14:53:49 +0300</pubDate>
+    <lastBuildDate>Вс, 10 фев 2019 14:53:49 +0300</lastBuildDate>
+
+    <item>
+      <title>First Post</title>
+      <link>https://andre-mouette.github.io/blog/2019/first-post.html</link>
+      <pubDate>Сб, 9 фев 2019 00:00:00 +0300</pubDate>
+      <guid isPermaLink="false">blog/2019/first-post.html</guid>
+      	<description>
+	
+&lt;p&gt;This is my blog page&lt;/p&gt;
+
+&lt;p&gt;I am java developer from Sberbank and Ivara Dance Studio teacher&lt;/p&gt;
+
+&lt;image
+
+&lt;pre class=&quot;prettyprint&quot;&gt;
+&lt;code&gt;
+Hello, World!
+&lt;/code&gt;
+&lt;/pre&gt;
+
+	</description>
+    </item>
+
+  </channel> 
+</rss>
